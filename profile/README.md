@@ -1,3 +1,5 @@
-# One M TPS Network
+# One M Network
 
-Go to the [wiki](https://github.com/onemtps/onemtps/wiki).
+We build blockchain processing one million transactions per second.
+
+Go to the [wiki](https://onem.network).
