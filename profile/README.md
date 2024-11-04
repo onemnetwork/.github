@@ -1,4 +1,4 @@
-# One M Network
+# OneM Network
 
 We build blockchain processing one million transactions per second.
 
